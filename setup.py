@@ -42,7 +42,7 @@ setup(
     zip_safe=False,
     platforms='any',
     install_requires=[
-        'flask==0.10.1',
+        'flask==1.0',
         'Flask-RESTful==0.3.3',
         'chiki-base',
     ],
